@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,product_name,region,sales_amount,cost
+1,2024-01-05,101,Laptop,West,55000,42000
+2,2024-01-10,102,Mobile,North,20000,15000
+3,2024-02-15,103,Tablet,South,30000,22000
+4,2024-02-20,101,Laptop,West,58000,43000
+5,2024-03-05,104,Headphones,East,5000,3000
+6,2024-03-18,105,Mobile,North,22000,16000
+7,2024-04-02,106,Laptop,South,60000,45000
+8,2024-04-12,107,Tablet,East,28000,21000
