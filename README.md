@@ -32,11 +32,7 @@ This project demonstrates a **SQL-first approach** to sales data analysis and bu
 - Clear seasonal trends observed in monthly sales  
 
 ---
-
-## 📈 Power BI Dashboard
-![Sales Dashboard](PowerBI/dashboard.png)
-
----
+[![Sales Dashboard](PowerBI/dashboard.png)](PowerBI/dashboard.png)
 
 ## 📎 Note
 This project uses **dummy/public data** for learning and demonstration purposes only.
