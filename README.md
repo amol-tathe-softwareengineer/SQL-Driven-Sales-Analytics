@@ -33,7 +33,7 @@ This project demonstrates a **SQL-first approach** to sales data analysis and bu
 
 ## 📊 Power BI Dashboard
 
-![Sales Dashboard](https://raw.githubusercontent.com/amol-tathe-softwareengineer/SQL-Driven-Sales-Analytics/main/PowerBI/dashboard.png)
+<img src="PowerBI/dashboard.png" alt="Sales Dashboard" width="100%"/>
 
 ## 📎 Note
 This project uses **dummy/public data** for learning and demonstration purposes only.
