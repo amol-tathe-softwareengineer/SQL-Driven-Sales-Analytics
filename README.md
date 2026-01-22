@@ -23,5 +23,9 @@ This project demonstrates a SQL-first approach to sales data analysis and busine
 - Top products contribute a major portion of total sales
 - Seasonal trends observed in monthly sales
 
+## 📈 Power BI Dashboard
+![Sales Dashboard](PowerBI/dashboard.png)
+
+
 ## Note
 This project uses dummy/public data for learning and demonstration purposes.
